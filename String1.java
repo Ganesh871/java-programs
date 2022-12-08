@@ -1,5 +1,6 @@
-public class String1
- {
+package string;
+
+public class String1 {
 
 	public static void main(String[] args) {
 		String1 st = new String1();
@@ -165,5 +166,4 @@ public class String1
 		
 	}
 }
-
 
